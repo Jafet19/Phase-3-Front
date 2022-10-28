@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import {Routes, Route} from "react-router-dom"
-import './App.scss';
+import './App.css';
 import Home from "./components/home";
 import Post from "./components/post";
 import Users from "./components/user";
